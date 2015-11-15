@@ -50,7 +50,7 @@ public class CountChars {
 	        		        		    
 	        	// Break down each line into a charArray and loop through each char.
 	            for(char c : sc.nextLine().toCharArray()){
-
+	            
 	                if(Character.isLowerCase(c)) {
 	                	lowerCases++;
 	                } else if(Character.isUpperCase(c)) {
