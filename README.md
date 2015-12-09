@@ -10,4 +10,6 @@ Upon completion of the course, the student should:
 
 Programmeringsspråk: <b>Java</b><br>
 Betygsskala: <b>3/4/5</b><br>
+Laborationer: <b>5</b><br>
+Tentamen: <b>5</b><br>
 Slutbetyg: <b>5</b>
