@@ -1,7 +1,7 @@
 # Foundations of Software Technology - HT2015
 
 Ännu mer fördjupade kunskaper i Java:
-- JUnit.
+- Enhetstester i JUnit.
 - Formella språkskoncept såsom finite automata, regulära uttryck, context-free grammars, och parsing.
 - Mer avancerade algoritmer och teoretiska koncept såsom tidskomplexitet, sortering och söksalgoritmer och dynamisk programmering.
 - Datastrukturer såsom listor, träd, sets och hashtabeller med fokus på listors och sets uppbyggnader, grapher och binära sökträd.
