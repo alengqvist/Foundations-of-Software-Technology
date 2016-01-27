@@ -1,13 +1,14 @@
 # Foundations of Software Technology - HT2015
 
-Ännu mer fördjupade kunskaper i Java:
-- Enhetstester i JUnit.
-- Formella språkskoncept såsom finite automata, regulära uttryck, context-free grammars, och parsing.
-- Mer avancerade algoritmer och teoretiska koncept såsom tidskomplexitet, sortering och söksalgoritmer och dynamisk programmering.
-- Datastrukturer såsom listor, träd, sets och hashtabeller med fokus på listors och sets uppbyggnader, grapher och binära sökträd.
+Deeper learning of Software technology:
+- be able to implement programs in Java
+- have knowledge of different types of software testing and have practical experience of unit testing (JUnit)
+- be able to define and apply formal languages concepts like finite automata, regular expressions, contextfree grammars, and parsing
+- be able to define and apply algorithmic theory concepts like time complexity, simple search and sorting algorithms, greedy algorithms, and dynamic programming
+- be able to implement data structures like lists, graphs, trees, sets, and hash tables
 
-Programmeringsspråk: <b>Java</b><br>
-Betygsskala: <b>3/4/5</b><br>
-Laborationer: <b>5</b><br>
-Tentamen: <b>5</b><br>
-Slutbetyg: <b>5</b>
+Programming language: <b>Java</b><br>
+Grading: <b>3/4/5</b><br>
+Assignments: <b>5</b><br>
+Examination: <b>5</b><br>
+Final grade: <b>5</b>
