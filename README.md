@@ -8,7 +8,7 @@ Deeper learning of Software technology:
 - be able to implement data structures like lists, graphs, trees, sets, and hash tables
 
 Programming language: <b>Java</b><br>
-Grading: <b>3/4/5</b><br>
-Assignments: <b>5</b><br>
-Examination: <b>5</b><br>
-Final grade: <b>5</b>
+Grading: A/B/C/D/E/F
+Assignments: <b>A</b><br>
+Examination: <b>A</b><br>
+Final grade: <b>A</b>
