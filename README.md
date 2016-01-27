@@ -1,6 +1,6 @@
 # Foundations of Software Technology - HT2015
 
-Deeper learning of Software technology:
+Deeper understanding of Software technology:
 - be able to implement programs in Java
 - have knowledge of different types of software testing and have practical experience of unit testing (JUnit)
 - be able to define and apply formal languages concepts like finite automata, regular expressions, contextfree grammars, and parsing
